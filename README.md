@@ -3,7 +3,7 @@ This repository is a simplified version of the repository "https://github.com/Ca
 
 The ground-truth xml files can be provided by the repository "https://github.com/Yipeng-Zhou/yolov3-tf2".
 
-The detection results  can be provided by the repository "https://gitlab.lrz.de/chair-of-cyber-physical-systems-in-production-engineering/nn-rt-bench.git".
+The detection results can be provided by the repository "https://github.com/Yipeng-Zhou/nn-rt-bench.git".
 
 ## Usage
 1. Copy the detection results into the folder "./results_object_detection".
